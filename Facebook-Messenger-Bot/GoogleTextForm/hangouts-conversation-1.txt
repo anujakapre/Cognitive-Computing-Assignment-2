@@ -1,0 +1,218 @@
+﻿2014-03-19 11:11:48 <Chandrika Kapre> hi
+2014-03-19 11:15:22 <Chandrika Kapre> btw electives konte ghetleles tu?
+2014-03-19 11:15:29 <Chandrika Kapre> konte ghetlele changle?
+2014-03-19 11:15:38 <Chandrika Kapre> kashala scope aahe plz sang na
+2014-03-19 11:15:58 <Chandrika Kapre> plz tell me
+2014-03-19 13:07:29 <ajunapk@gmail.com> Hey
+2014-03-20 10:30:49 <Chandrika Kapre> btw electives konte ghetleles tu?
+konte ghetlele changle?8:45 PM
+kashala scope aahe plz sang na
+plz tell me
+2014-03-20 10:39:30 <ajunapk@gmail.com> Mi HCI ani ACG:-)
+2014-03-20 10:40:05 <Chandrika Kapre> mhanaje?
+2014-03-20 10:41:04 <ajunapk@gmail.com> Human computer interaction
+2014-03-20 10:41:15 <ajunapk@gmail.com> N advanced computer graphics
+2014-03-20 10:42:22 <Chandrika Kapre> ohh
+2014-03-20 10:44:58 <ajunapk@gmail.com> Hmm ☺
+2014-03-20 10:46:07 <Chandrika Kapre> i am totally confused
+2014-03-20 10:46:27 <Chandrika Kapre> which elective should i take :(
+2014-03-20 10:46:58 <ajunapk@gmail.com> Options??
+2014-03-20 10:48:43 <Chandrika Kapre> for 1st elective
+1. software architecture
+2014-03-20 10:48:56 <Chandrika Kapre> 2.image processing
+2014-03-20 10:49:11 <Chandrika Kapre> 3. artificial intelligence
+2014-03-20 10:49:21 <Chandrika Kapre> 4.netwrok related aahe ek
+2014-03-20 10:49:35 <Chandrika Kapre> elective 2
+1.mobile computing
+2014-03-20 10:49:48 <Chandrika Kapre> 2.multimedia system
+2014-03-20 10:50:03 <Chandrika Kapre> 3. software testing and quality assuarance
+2014-03-20 10:50:41 <ajunapk@gmail.com> AI is good if teachers changale asatil tar
+2014-03-20 10:51:07 <ajunapk@gmail.com> N if u like electronics den IP is good option
+2014-03-20 10:51:18 <ajunapk@gmail.com> Coz its real good n real scope therr
+2014-03-20 10:51:30 <ajunapk@gmail.com> MC maze hote
+2014-03-20 10:51:40 <ajunapk@gmail.com> But ai really didn't like that sub
+2014-03-20 10:51:55 <ajunapk@gmail.com> STQA is again completely therotical
+2014-03-20 10:52:18 <Chandrika Kapre> mc kasaye?
+2014-03-20 10:54:18 <ajunapk@gmail.com> Its almost theory
+2014-03-20 10:54:54 <ajunapk@gmail.com> Its about how internally mobile communication happens
+2014-03-20 10:55:07 <ajunapk@gmail.com> I felt it was headache
+2014-03-20 10:55:14 <ajunapk@gmail.com> >.<
+2014-03-20 10:56:24 <Chandrika Kapre> kay yar konta gheu mag?
+2014-03-20 10:56:36 <Chandrika Kapre> ai chi faculty nahiye changli
+2014-03-22 11:45:18 <Chandrika Kapre> me software architecture ani software testing and quality assuarance select kelay
+2014-03-22 11:45:20 <Chandrika Kapre> ok na?
+2014-03-22 11:45:39 <ajunapk@gmail.com> Yupp!!
+2014-03-22 11:45:41 <ajunapk@gmail.com> :-)
+2014-03-22 11:45:52 <ajunapk@gmail.com> STQA lagate
+2014-03-22 11:46:05 <Chandrika Kapre> :)
+2014-03-22 11:48:40 <ajunapk@gmail.com> Hey
+2014-03-22 11:48:51 <ajunapk@gmail.com> Do u knw anything abt vrml??
+2014-03-22 11:49:41 <Chandrika Kapre> hehehe maza seminar hota 3D internet ver tyaveles aaleli hi term
+2014-03-22 11:50:11 <Chandrika Kapre> wait i will show you
+2014-03-22 11:50:15 <Chandrika Kapre> but why?
+2014-03-22 11:51:04 <ajunapk@gmail.com> Are mazya frndla tyache s/w konte asate te have aahe
+2014-03-22 11:51:13 <ajunapk@gmail.com> She has to sone prgs
+2014-03-22 11:51:24 <Chandrika Kapre> oh
+2014-03-22 11:51:26 <Chandrika Kapre> wait
+2014-03-22 11:54:01 <Chandrika Kapre> What is VRML?
+VRML is the Virtual Reality Modelling Language, a system for describing 3D scenes on the Web. Using text files in a similar format to the HTML which you have been studying, VRML allows a browser to produce the illusion of a three dimensional environment.
+HOW TO USE IT?
+The very first thing you need is a VRML browser, to view your worlds, as well as other peoples. The most popular one is Cosmo Player from Cosmo Software (Win95/NT).
+2014-03-22 11:54:28 <Chandrika Kapre> The next thing you need to do is create your own worlds. There are two ways of doing this. First, you could use one of the many VRML authoring tools, which are like 3D modellers in which you can build your world. 
+The other way is to code it by hand. All you need for this is a text editor, such as notepad or wordpad. Simply type in the code as shown, and save it as filename.wrl. You can then load this into your browser and take a look!
+2014-03-22 11:54:43 <Chandrika Kapre> VRML files contains:
+The file header
+Comments - notes to yourself
+Nodes - nuggets of scene information
+Fields - node attributes you can change
+Values - attribute values
+2014-03-22 11:54:47 <ajunapk@gmail.com> Ohh ☺☺
+2014-03-22 11:55:24 <Chandrika Kapre> simple code in vrml
+2014-03-22 11:55:28 <Chandrika Kapre> #VRML V2.0 utf8 
+     # A Cylinder 
+     Shape { 
+      appearance Appearance {
+        material  Material { } 
+      }
+        geometry Cylinder { 
+          height 2.0 
+          radius 1.5
+    }
+ }
+2014-03-22 11:57:08 <Chandrika Kapre> yevdhach aahe mazya kade
+2014-03-22 11:57:40 <ajunapk@gmail.com> Okkk 🐈🐈🐈
+2014-03-22 11:58:01 <ajunapk@gmail.com> Sangate tila mi he!!
+2014-03-22 11:58:07 <ajunapk@gmail.com> 😊
+2014-03-22 11:58:47 <Chandrika Kapre> ok
+2014-03-28 05:54:59 <Chandrika Kapre> aikna
+2014-03-28 05:55:10 <Chandrika Kapre> project in
+2014-03-28 05:55:17 <Chandrika Kapre> java?
+2014-03-28 05:55:43 <Chandrika Kapre> aikna
+do you have your
+2014-03-28 05:55:50 <Chandrika Kapre> project in
+java?
+2014-03-28 05:56:04 <Chandrika Kapre> (j2ee vala)
+2014-03-28 05:59:14 <Chandrika Kapre> if you hav den plz send
+2014-03-28 06:22:18 <ajunapk@gmail.com> Nope
+2014-03-28 06:22:21 <ajunapk@gmail.com> I didn't do prj in java
+2014-03-28 06:22:32 <ajunapk@gmail.com> I worked on Linux n cpp
+2014-03-28 06:22:39 <ajunapk@gmail.com> And after that SE
+2014-03-31 05:08:40 <Chandrika Kapre> gudhi padvyachya hardik shubhechha
+2014-03-31 05:33:06 <ajunapk@gmail.com> Same to u
+2014-04-07 08:40:51 <Chandrika Kapre> hey u der?
+2014-04-07 08:59:07 <ajunapk@gmail.com> Hey
+2014-04-12 12:42:54 <Chandrika Kapre> aga tula boys over flowers vagare haviye ka?
+2014-04-12 14:15:00 <ajunapk@gmail.com> Ho
+2014-04-12 14:47:05 <Chandrika Kapre> ok ante
+2014-04-12 14:47:06 <Chandrika Kapre> :)
+2014-04-12 23:48:32 <ajunapk@gmail.com> ☺☺☺
+2014-04-15 10:33:37 <Chandrika Kapre> hi
+2014-04-15 10:34:49 <Chandrika Kapre> hinjewadichya persistent chya office la kasa jaycha?
+2014-04-15 11:04:48 <ajunapk@gmail.com> Corporation varun bus aste
+2014-04-15 11:05:03 <ajunapk@gmail.com> Hinjewadi police station phase 1 la utarayche
+2014-04-15 11:05:43 <ajunapk@gmail.com> Kinva jar gadi ni janar asashil tr highway warun stright aahe
+2014-04-15 11:06:10 <ajunapk@gmail.com> Ani Hinjewadichya overbridge chya weli left turn ghyayacha
+2014-04-16 13:40:16 <Chandrika Kapre> aga amhala aj mentors assign zale ter mazya group la parul parmar aahe
+2014-04-16 13:40:26 <Chandrika Kapre> she ic cute and nice
+2014-04-16 13:40:33 <Chandrika Kapre> aaj teri chhan vatli :)
+2014-06-15 12:45:13 <Chandrika Kapre> anu ekhada chhan vishay suchav naaaaaaa project sathi
+2014-06-28 01:26:32 <Chandrika Kapre> ae ajcha kay?
+2014-06-28 08:20:00 <Chandrika Kapre> nightana sang ok?
+2014-06-28 08:23:06 <ajunapk@gmail.com> Nighatiye mi
+2014-06-28 08:23:11 <ajunapk@gmail.com> Okay??
+2014-06-28 08:23:13 <ajunapk@gmail.com> Tu nigh
+2014-06-28 08:23:32 <ajunapk@gmail.com> It will take me hardly 10 mins to reach!! 😊😊
+2014-06-28 08:23:33 <Chandrika Kapre> tu nightiyeeeeee
+2014-06-28 08:23:41 <Chandrika Kapre> ae ae thamb plz
+2014-06-28 08:23:46 <Chandrika Kapre> give me 10min
+2014-06-28 08:23:54 <ajunapk@gmail.com> Kay zale?
+2014-06-28 08:23:58 <Chandrika Kapre> i will give you miss call
+2014-06-28 08:24:10 <Chandrika Kapre> aga avraycha rahilay
+2014-06-28 08:24:19 <Chandrika Kapre> nightana miss call detena plz plz plz
+2014-06-28 08:24:24 <ajunapk@gmail.com> Okkkies XDXD
+2014-06-28 08:24:36 <ajunapk@gmail.com> Thike na ^_^;;^_^;;^_^;;
+2014-06-28 08:24:50 <ajunapk@gmail.com> Aawar patkan 😝😝😝
+2014-06-28 08:25:30 <Chandrika Kapre> ok bye
+2014-06-28 08:25:36 <Chandrika Kapre> nightana miss call dete
+2014-07-01 11:40:37 <Chandrika Kapre> anuja
+2014-07-01 11:40:41 <Chandrika Kapre> tuzya kade
+2014-07-01 11:40:52 <Chandrika Kapre> tuzya resume chi soft copy asel ter
+2014-07-01 11:41:06 <Chandrika Kapre> send ker na mala just reference sathi havay
+2014-07-01 11:41:11 <Chandrika Kapre> format baghayla
+2014-07-25 13:28:40 <Chandrika Kapre> maza fb vercha status bagh na
+2014-08-08 11:17:23 <Chandrika Kapre> hi
+2014-08-08 11:18:05 <Chandrika Kapre> office kiti la sutat tuza?
+2014-08-11 13:48:57 <Chandrika Kapre> u der?
+2014-08-22 11:51:14 <Chandrika Kapre> Hey,I just downloaded WhatsApp Messenger on my Android.It is a smartphone messenger which replaces SMS. This app even lets me send pictures, video and other multimedia!WhatsApp Messenger is available for Android, iPhone, Nokia, Windows Phone and BlackBerry and there is no PIN or username to remember - it works just like SMS and uses your internet data plan.Get it now from https://www.whatsapp.com/download/ and say good-bye to SMS!
+2016-09-28 01:05:21 <ajunapk@gmail.com> hi
+2016-09-28 01:34:36 <Chandrika Kapre> Hello
+2016-09-28 01:48:58 <ajunapk@gmail.com> kay challay??
+2016-09-28 01:49:06 <ajunapk@gmail.com> whatsapp ka uninstall keles???
+2016-09-28 01:49:29 <Chandrika Kapre> Basliye office madhe kam karat
+2016-09-28 01:49:42 <Chandrika Kapre> Khup jasti vel jato ani bore zala mala te
+2016-09-28 01:49:56 <Chandrika Kapre> Karte new year madhe install parat
+2016-09-28 01:50:35 <ajunapk@gmail.com> Okkies
+2016-09-28 01:50:42 <ajunapk@gmail.com> 😊
+2016-09-28 01:50:57 <Chandrika Kapre> Tu kashiyes
+2016-09-28 01:51:09 <Chandrika Kapre> Khup assignments vagare ahet ka
+2016-09-28 01:51:22 <Chandrika Kapre> Abhyas kasa ahe teachers ani saglach sang
+2016-09-28 01:51:38 <ajunapk@gmail.com> Ag prachand assignments aahet
+2016-09-28 01:51:43 <ajunapk@gmail.com> It doesn't stop
+2016-09-28 01:51:49 <Chandrika Kapre> Nahiter timing sang call Karin doghi free astana
+2016-09-28 01:51:53 <ajunapk@gmail.com> Wegala abhyas karayala velch nai milat
+2016-09-28 01:51:59 <Chandrika Kapre> Shya
+2016-09-28 01:52:02 <Chandrika Kapre> Yevdha
+2016-09-28 01:52:14 <ajunapk@gmail.com> Mhnje almost everyday we are up until 3
+2016-09-28 01:52:21 <ajunapk@gmail.com> Completing assignments
+2016-09-28 01:52:23 <Chandrika Kapre> Tu hushar ahes g jamel tula sagla
+2016-09-28 01:52:30 <ajunapk@gmail.com> Lol...
+2016-09-28 01:52:37 <Chandrika Kapre> Kharach mhantiye
+2016-09-28 01:52:37 <ajunapk@gmail.com> Workload khup aahe ag
+2016-09-28 01:52:49 <Chandrika Kapre> You have that capability
+2016-09-28 01:52:51 <ajunapk@gmail.com> Sooo it's hard to balance everything
+2016-09-28 01:52:53 <Chandrika Kapre> You can manage
+2016-09-28 01:52:56 <Chandrika Kapre> Ohh
+2016-09-28 01:53:01 <Chandrika Kapre> No
+2016-09-28 01:53:08 <ajunapk@gmail.com> M coping so far 😥
+2016-09-28 01:53:37 <ajunapk@gmail.com> But then i realize ki its just a beginning
+2016-09-28 01:53:44 <ajunapk@gmail.com> N i have only 2 coyrses
+2016-09-28 01:54:18 <Chandrika Kapre> Yo
+2016-09-28 01:54:25 <Chandrika Kapre> Bhariye yar tu
+2016-09-28 01:54:34 <Chandrika Kapre> Mazya samor chi role model
+2016-09-28 01:54:37 <Chandrika Kapre> Love you
+2016-09-28 01:54:41 <Chandrika Kapre> Miss you
+2016-09-28 01:54:47 <ajunapk@gmail.com> Aawaraa ag!
+2016-09-28 01:54:58 <ajunapk@gmail.com> I miss you too 😙
+2016-09-28 01:55:16 <ajunapk@gmail.com> Ekade alo na ki kalate pan
+2016-09-28 01:55:23 <ajunapk@gmail.com> US kahi jast vegale nahiye
+2016-09-28 01:55:28 <ajunapk@gmail.com> It's better
+2016-09-28 01:55:35 <ajunapk@gmail.com> But not really different
+2016-09-28 01:55:45 <ajunapk@gmail.com> Mhnje
+2016-09-28 01:55:49 <Chandrika Kapre> Ho same Archis dada mhanlela
+2016-09-28 01:56:01 <ajunapk@gmail.com> It's same like pune..
+2016-09-28 01:56:14 <Chandrika Kapre> Rich life style ahe raste environment vagare mastay baki sagla same
+2016-09-28 01:56:15 <ajunapk@gmail.com> But i know i can't mett all of you whenever i wamt
+2016-09-28 01:56:34 <Chandrika Kapre> Ani manus khup jasti lamb aslya mule independent banto
+2016-09-28 01:56:44 <Chandrika Kapre> Virtual conversation
+2016-09-28 01:56:52 <ajunapk@gmail.com> Yeah
+2016-09-28 01:56:54 <Chandrika Kapre> Same Archis dada bolalela
+2016-09-28 01:57:22 <ajunapk@gmail.com> 👀
+2016-09-28 01:57:45 <Chandrika Kapre> Baki
+2016-09-28 01:58:02 <Chandrika Kapre> Starting la hindlis ki nahi kuthe
+2016-09-28 01:58:44 <ajunapk@gmail.com> Nai g
+2016-09-28 01:58:53 <ajunapk@gmail.com> I had a week of jetlag
+2016-09-28 01:58:57 <ajunapk@gmail.com> N then clg started
+2016-09-28 01:59:06 <Chandrika Kapre> Ohh
+2016-09-28 01:59:21 <Chandrika Kapre> Photos ter send kar
+2016-09-28 02:03:37 <ajunapk@gmail.com> https://lh3.googleusercontent.com/-9Ve3QJwOM4g/V-tdOCkRfbI/AAAAAAAAAGQ/r_HLdCoeBisiJ-BWis0vxwn1KOTx0fHWACK8B/s0/2016-09-27.jpg
+2016-09-28 02:03:38 <ajunapk@gmail.com> https://lh3.googleusercontent.com/-tK6JcIdFN5g/V-tdOtcyrCI/AAAAAAAAAGU/YaZCJecLqP8CHkmBDCekv8oy9b1rvuqtACK8B/s0/2016-09-27.jpg
+2016-09-28 02:03:41 <ajunapk@gmail.com> https://lh3.googleusercontent.com/-5czOIA34IbY/V-tdPIqVX_I/AAAAAAAAAGg/7mtnS3m1fQE4VuGEg9dQ_qa1MY6DoBSGQCK8B/s0/2016-09-27.jpg
+2016-09-28 02:03:45 <ajunapk@gmail.com> https://lh3.googleusercontent.com/-m2m1IXY5w5A/V-tdPl9t4iI/AAAAAAAAAGo/5k_gluHu_-Ag14oLhAOSpES7X7Y2_ZrUgCK8B/s0/2016-09-27.jpg
+2016-09-28 02:03:49 <ajunapk@gmail.com> https://lh3.googleusercontent.com/-eZ_Cv96amPk/V-tdQuQVX9I/AAAAAAAAAGw/cSL_jCNrDBQSURg0BfsrtMlQ8djIg0z5gCK8B/s0/2016-09-27.jpg
+2016-09-28 02:03:51 <ajunapk@gmail.com> https://lh3.googleusercontent.com/-nqgpa9mTMp4/V-tdRlzAX3I/AAAAAAAAAG0/VjXu_jverXIXmxRAJXpvZgJCfBWg1xImACK8B/s0/2016-09-27.jpg
+2016-09-28 02:11:19 <Chandrika Kapre> Oho looking smart and sweet in short hair
+2016-09-28 02:11:31 <ajunapk@gmail.com> awwww
+2016-09-28 02:11:34 <ajunapk@gmail.com> Danke!
+2016-09-28 02:11:45 <ajunapk@gmail.com> ☺ ☺
+2016-09-28 02:12:14 <Chandrika Kapre> Bitte schön
+2016-09-28 02:21:30 <ajunapk@gmail.com> 😆
